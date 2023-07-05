@@ -1,0 +1,50 @@
+.parrafo,
+.titulo1,
+
+.titulo2 {
+    background-color: teal;
+    text-align: center;
+    color: white;
+}
+
+
+.titulo3 {
+
+    background-color: orange;
+    text-align: right;
+    color: black;
+}
+
+.titulo .titulo4 {
+    background-color: violet;
+    text-align: right;
+    color: white;
+    font-size: 30px;
+}
+
+aside > p {
+    background-color: violet;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+}
+
+/* h6 dentro los parametros*/
+h6{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+/* span dentro los parametros*/
+span {
+    text-decoration: line-through;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    display: block;
+}
+
+
